@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Todo.Api/Todo.Api.csproj" />
+  <Project Path="Todo.Contracts/Todo.Contracts.csproj" />
+  <Project Path="Todo.Entities/Todo.Entities.csproj" />
+  <Project Path="Todo.Repository/Todo.Repository.csproj" Id="e4732897-f508-405b-8201-2f8969653298" />
+</Solution>
